@@ -1,0 +1,26 @@
+{
+  "backend": "pymupdf",
+  "width": 860,
+  "height": 10084,
+  "images": 3,
+  "full_image": "article-long.png",
+  "segments": [
+    {
+      "file": "article-part-01.png",
+      "top": 0,
+      "bottom": 4800
+    },
+    {
+      "file": "article-part-02.png",
+      "top": 4800,
+      "bottom": 9600
+    },
+    {
+      "file": "article-part-03.png",
+      "top": 9600,
+      "bottom": 10084
+    }
+  ],
+  "layout_note": "Offline reflow; some CSS differs from the browser HTML.",
+  "platform_verified": false
+}

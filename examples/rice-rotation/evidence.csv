@@ -1,0 +1,3 @@
+claim_id,source_page,source_item,comparator,outcome,unit,population,year,estimate,uncertainty,n,statistical_test,recomputed,status,caveat
+C1,4,3.2,SF vs FP,yield,percent,4 cultivars x 2 densities,2024,6.41,not reported,not specified here,see Table2,6.43 from rounded Table3,checked,rounding compatible
+C2,4,3.2,SF vs FP,yield,percent,4 cultivars x 2 densities,2025,14.07,not reported,not specified here,see Table2,14.08 from rounded Table4,checked,not a universal effect

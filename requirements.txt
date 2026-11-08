@@ -1,0 +1,4 @@
+# PDF extraction; HTML builder and audits use only Python standard library.
+PyMuPDF>=1.24,<2
+# User-selected quantitative plotting backend.
+matplotlib>=3.8,<4

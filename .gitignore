@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+jobs/
+.env
+.env.*
+!.env.example
+work/
+dist/
+test-results/
+.DS_Store
+Thumbs.db
+

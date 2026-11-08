@@ -1,0 +1,52 @@
+{
+  "errors": [],
+  "warnings": [
+    "Embedded image needs Xiumi import verification"
+  ],
+  "images": 5,
+  "static_pass": true,
+  "platform_verified": false,
+  "theme": "hgy",
+  "audience": "farmers",
+  "missing_remote_images": [
+    "f01",
+    "f02",
+    "f04",
+    "f06",
+    "overview"
+  ],
+  "import_status": "candidate_embedded",
+  "visual_review": "not_run",
+  "scientific_review": "agent_required",
+  "long_image": {
+    "backend": "pymupdf",
+    "width": 860,
+    "height": 15742,
+    "images": 5,
+    "full_image": "article-long.png",
+    "segments": [
+      {
+        "file": "article-part-01.png",
+        "top": 0,
+        "bottom": 4800
+      },
+      {
+        "file": "article-part-02.png",
+        "top": 4800,
+        "bottom": 9600
+      },
+      {
+        "file": "article-part-03.png",
+        "top": 9600,
+        "bottom": 14400
+      },
+      {
+        "file": "article-part-04.png",
+        "top": 14400,
+        "bottom": 15742
+      }
+    ],
+    "layout_note": "Offline reflow; some CSS differs from the browser HTML.",
+    "platform_verified": false
+  }
+}

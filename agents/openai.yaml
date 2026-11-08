@@ -1,0 +1,4 @@
+interface:
+  display_name: "农业论文公众号工作流"
+  short_description: "PDF生成双版本农业推文、中文图表、概况图、封面、HTML、整篇长图与素材包"
+  default_prompt: "用 $agri-paper-wechat 将这篇农业论文PDF制作成农民与科研双版本图文推送，生成中文配图、概况图、封面、HTML、整篇长图和素材包。"
